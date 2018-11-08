@@ -41,7 +41,7 @@
                 {
                     defaultContent:
                     '<div class="align-content-center"><a title="Editar Articulo" href="javascript:;" class="btn btn-warning edit"><i class="glyphicon glyphicon-pencil"></i></a>' +
-                    '<a title="Eliminar Articulo" href="javascript:;" class="btn btn-danger remove"><i class="glyphicon glyphicon-trash"></i></a></div>',
+                    '<a title="Eliminar Articulo editado " href="javascript:;" class="btn btn-danger remove"><i class="glyphicon glyphicon-trash"></i></a></div>',
                     data: 'action',
                     name: 'action',
                     title: 'Acciones',
